@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Fatih Bilgi</h1>
+<h3 align="center">A software engineering student on the path to a full stack developer.</h3>
 
-<!--
-**fatihbilgi/fatihbilgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python, Java programming and working on cyber security**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Python, Cyber Security, Web Development**
+
+- 📫 How to reach me **fatih_blg@outlook.com**
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihbilgi&layout=compact)](https://github.com/fatihbilgi)
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihbilgi&show_icons=true&theme=algolia" ;"alt="fatihbilgi" /></p>
+<p align="center">
+
+  
+ 
+<a href="https://www.linkedin.com/in/fatihbilgi/"  align="center" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="fatihbilgi" height="30" width="30" /></a>
+<a href="https://www.instagram.com/fatihstagram1/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" alt="onursercanyilmaz" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/fatihbilgi/"  align="center" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="fatihbilgi" height="30" width="30" /></a>
+</p>
