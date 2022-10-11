@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Python, Java programming and working on cyber security**
 
 
-- 💬 Ask me about **Python, Cyber Security, Web Development**
+- 💬 Ask me about **Java, Cyber Security, Web Development**
 
 
 - 📫 How to reach me **fatih_blg@outlook.com**
