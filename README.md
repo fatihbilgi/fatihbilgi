@@ -2,10 +2,10 @@
 <h3 align="center">A software engineering student on the path to a full stack developer.</h3>
 
 
-- 🌱 I’m currently learning **Python, Java programming and working on cyber security**
+- 🌱 I’m currently learning **Java, Java Spring, Java Swing and Kotlin, working on web-based and mobil application**
 
 
-- 💬 Ask me about **Java, Cyber Security, Web Development**
+- 💬 Ask me about **Java, Web Development, Mobil App Development**
 
 
 - 📫 How to reach me **fatih_blg@outlook.com**
