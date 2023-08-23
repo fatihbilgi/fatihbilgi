@@ -11,9 +11,9 @@
 - 📫 How to reach me **fatih_blg@outlook.com**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihbilgi&layout=compact)](https://github.com/fatihbilgi)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihbilgi&layout=compact)](https://github.com/fatihbilgi)
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihbilgi&show_icons=true&theme=algolia" ;"alt="fatihbilgi" /></p>
-<p align="center">
+<p align="center"> -->
 
 
   
