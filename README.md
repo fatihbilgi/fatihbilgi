@@ -2,10 +2,10 @@
 <h3 align="center">A software engineering student on the path to a full stack developer.</h3>
 
 
-- 🌱 I’m currently learning **Java, Java Spring, Java Swing and Kotlin, working on web-based and mobil application**
+- 🌱 I am currently working on **Java, Java Spring, React, Databases, NodeJs, web based application** and I continue to learn.
 
 
-- 💬 Ask me about **Java, Web Development, Mobil App Development**
+- 💬 Ask me about **Software Engineering**
 
 
 - 📫 How to reach me **fatih_blg@outlook.com**
